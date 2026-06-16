@@ -41,7 +41,7 @@ const randomBox = () => {
   main.append(box);
 
   let mainH = main.clientHeight - box.offsetHeight;
-  let mainW = main.clientWidth - box.offsetWidth;
+  let mainW = main.clientWidth - box.offsetWidth;  
 
   const rY = Math.random() * mainH;
   const rX = Math.random() * mainW;
