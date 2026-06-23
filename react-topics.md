@@ -24,20 +24,16 @@
 
 - Creating React App with Vite
 - Project Structure
-- JSX Rules
-- Expressions in JSX
+- JSX
 - Embedding JavaScript in JSX
 - Fragments
 - React Strict Mode
-- React DevTools
 
 ---
 
 ## Module 2 - Components
 
 - Functional Components
-- Component Composition
-- Reusable Components
 - Props
 - Children Prop
 - Default Props
@@ -66,6 +62,7 @@
 ## Module 4 - Rendering Lists
 
 - map()
+- Reusable Components
 - Rendering Collections
 - Keys
 - Why Keys Matter
